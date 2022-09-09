@@ -1,0 +1,11 @@
+{
+  "name": "APE",
+  "description": "APE is a simple, fast, and lightweight web framework for PHP.",
+  "image": "https://ipfs.io/ipfs/QmSTxBDZ3U4VowpeY5dqtTAHh39uufmF7jV1zs92dB9PSd?filename=8cd018a04ac2664c86ff610f892a5bf1.jpeg",
+  "attributes": [
+    {
+      "trait_type": "monkey",
+      "value": 100
+    }
+  ]
+}
